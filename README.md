@@ -14,7 +14,7 @@ This project focuses on implementing an object detection and tracking system usi
 
 ### Google Colab Execution
 
-1. Open the provided Google Colab notebook: [Google Colab Link](xzxzxzc)
+1. Open the provided Google Colab notebook and copy notebook: [Google Colab Link](https://colab.research.google.com/drive/1Jywu0kEa3EoXxOhBQrpkpjuOIpHkY84a?usp=sharing)
 2. Run all cells in the notebook to execute the entire pipeline.
 
 
