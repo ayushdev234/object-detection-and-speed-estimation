@@ -20,5 +20,5 @@ This project focuses on implementing an object detection and tracking system usi
 
 
 ##outpt :
-![Output Video](https://github.com/your-username/your-repo/raw/main/output_video.mp4)
+![Output Video](https://github.com/ayushdev234/object-detection-and-speed-estimation/blob/main/result_compressed1%20(1).mp4)
 
